@@ -37,7 +37,7 @@ def send_message(quotes_list=DAILY_QUOTE):
 #Send every day at this specified time in the brackets. 
 schedule.every().day.at("10:58").do(send_message, DAILY_QUOTE)
 
-#Option to send the message NOW. Change time in the brackets to Now. 
+#Test option to send the message NOW. Change time in the brackets to NOW.  
 schedule.every().day.at("12:54").do(send_message, DAILY_QUOTE)
 
 #This loop is used to check if any scheduled tasks are still pending. 
