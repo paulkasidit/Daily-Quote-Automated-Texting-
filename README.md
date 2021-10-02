@@ -37,3 +37,11 @@ Running the program
 python3 run.py 
 
 ```
+
+--------------------
+Enquiries: kasiditpaul@gmail.com 
+
+API Credits 
+--------------------
+© They Said So
+© Twilio 
