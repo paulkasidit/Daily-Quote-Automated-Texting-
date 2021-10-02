@@ -9,7 +9,10 @@ Installation
 --------------
 - In the program directory run the folowing Terminal Command:
 
+```
 pip install -r requirements.txt
+
+```
 
 Setup
 --------
@@ -30,4 +33,7 @@ Running the program
 
 - In the program directory run the folowing Terminal Command:
 
+```
 python3 run.py 
+
+```
