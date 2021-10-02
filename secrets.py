@@ -5,7 +5,7 @@
 
 """Twilio API Credentials"""
   
-cellphone = ""
+cellphone = "" #format as i.e +660800000000, +100000000 (+ country code)
 twilio_number = ""
 twilio_account_sid = ""
 twilio_token = ""
