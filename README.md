@@ -21,9 +21,9 @@ Setup
 - twilio_account_sid" (twilio account sid)  *SECRET
 - "twilio token" (your twilio account token, which can be found in the account settings.) *SECRET 
 
-*They Said So API credentials are not needed, since we are accessing the FREE Public API. 
-
 3. Setup complete
+
+*They Said So API credentials are not needed, since we are accessing the FREE Public API. 
 
 Running the program
 --------------------
