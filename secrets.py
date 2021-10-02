@@ -1,6 +1,6 @@
 """They Said So API Credentials""" 
 
-# We do not need this since we are accessing the Free Public API, 
+# We do not need this since we are accessing the FREE They Said So Public API, 
 # which does not require credentials/authentication. 
 
 """Twilio API Credentials"""
